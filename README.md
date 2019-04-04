@@ -1,1 +1,1 @@
-First project in JavaScript
+# First project in JavaScript
