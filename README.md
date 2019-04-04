@@ -8,4 +8,4 @@ https://arekpl28.github.io/JavaScript/01%20Changing%20font%20size/index.html
 
 ### 02 Adding squares
 
-https://arekpl28.github.io/JavaScript/02%20Adding%20squares/index.html
+https://arekpl28.github.io/JavaScript//02%20Adding%20squares/index.html
