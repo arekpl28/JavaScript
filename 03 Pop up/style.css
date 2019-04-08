@@ -1,0 +1,117 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+section.article {
+  width: 70%;
+  text-align: center;
+  margin: 0 auto;
+  padding-top: 5vh;
+}
+
+section.article.active {
+  width: 70%;
+  max-height: 100vh;
+  overflow: hidden;
+  text-align: center;
+  margin: 0 auto;
+  filter: blur(2px)
+}
+
+section.article p {
+  font-size: 20px;
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: justify;
+}
+
+section.article button {
+  font-size: 32px;
+  padding: 15px 25px;
+  margin: 40px;
+  border: 2px solid black;
+  background-color: transparent;
+  cursor: pointer;
+}
+
+section.article button:hover {
+  background-color: black;
+  color: white;
+}
+
+section.article img {
+  width: 100%;
+  margin-bottom: 50px;
+}
+
+section.modal-wrap {
+  display: none;
+}
+
+section.modal-wrap.active {
+  display: block;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.5);
+}
+
+section.modal-wrap.active div.modal {
+  position: absolute;
+  display: flex;
+  flex-direction: column;
+  width: 80%;
+  height: 70%;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  border: 2px solid black;
+  border-radius: 20px;
+  overflow: hidden;
+}
+
+@media (max-width: 800px) {
+  section.article p {
+    font-size: 14px;
+  }
+
+  section.article button {
+    font-size: 20px;
+  }
+
+  section.modal-wrap.active div.modal {
+    width: 90%;
+    height: 90%;
+  }
+}
+
+section.modal-wrap div.modal div.top {
+  background-color: cadetblue;
+  flex-basis: 20%;
+}
+
+section.modal-wrap div.modal div.middle {
+  background-color: gray;
+  flex-grow: 1;
+}
+
+section.modal-wrap div.modal div.bottom {
+  background-color: cadetblue;
+  flex-basis: 20%;
+}
+
+section.modal-wrap div.modal span.hide {
+  position: absolute;
+  top: 3px;
+  right: 2px;
+  z-index: 1;
+}
+
+section.modal-wrap div.modal span.hide i {
+  font-size: 50px;
+  color: white;
+  cursor: pointer;
+}
