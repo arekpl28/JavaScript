@@ -24,3 +24,6 @@ https://arekpl28.github.io/JavaScript/07%20Adding%20items%20to%20the%20list/inde
 
 ### 08 Creating list and adding items to list
 https://arekpl28.github.io/JavaScript/08%20Creating%20list%20and%20adding%20items%20to%20list/index.html
+
+### 09 Detection and display of mouse position
+https://arekpl28.github.io/JavaScript//09%20Detection%20and%20display%20of%20mouse%20position/index.html
