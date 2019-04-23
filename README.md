@@ -21,3 +21,6 @@ https://arekpl28.github.io/JavaScript/06%20Square%20changes%20size%20when%20scro
 
 ### 07 Adding items to the list
 https://arekpl28.github.io/JavaScript/07%20Adding%20items%20to%20the%20list/index.html
+
+### 08 Creating list and adding items to list
+https://arekpl28.github.io/JavaScript/08%20Creating%20list%20and%20adding%20items%20to%20list/index.html
