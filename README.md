@@ -18,3 +18,6 @@ https://arekpl28.github.io/JavaScript/05%20Adding%20numbered%20squares/index.htm
 
 ### 06 Square changes size when scrolling
 https://arekpl28.github.io/JavaScript/06%20Square%20changes%20size%20when%20scrolling/index.html
+
+### 07 Adding items to the list
+https://arekpl28.github.io/JavaScript/07%20Adding%20items%20to%20the%20list/index.html
