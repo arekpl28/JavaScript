@@ -15,3 +15,6 @@ https://arekpl28.github.io/JavaScript/04%20Banner%20with%20animation/index.html
 
 ### 05 Adding numbered squares
 https://arekpl28.github.io/JavaScript/05%20Adding%20numbered%20squares/index.html
+
+### 06 Square changes size when scrolling
+https://arekpl28.github.io/JavaScript/06%20Square%20changes%20size%20when%20scrolling/index.html
