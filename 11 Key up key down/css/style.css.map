@@ -1,0 +1,11 @@
+{
+    "version": 3,
+    "mappings": "AEAA,AAAA,CAAC,CAAC;EDCA,MAAM,EAAE,CAAC;EACT,OAAO,EAAE,CAAC;EACV,UAAU,EAAE,UAAU;CCFL;;AAEnB,AAAA,EAAE,CAAC;EACD,QAAQ,EAAE,QAAQ;EDElB,GAAG,EAAE,GAAG;EACR,IAAI,EAAE,GAAG;EACT,SAAS,EAAE,qBAAqB;ECFhC,WAAW,EAAE,4BAA4B;EACzC,cAAc,EAAE,SAAS;CAAG",
+    "sources": [
+        "../sass/style.sass",
+        "../sass/_mixins.sass",
+        "../sass/_html.sass"
+    ],
+    "names": [],
+    "file": "style.css"
+}
