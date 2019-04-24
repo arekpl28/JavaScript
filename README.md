@@ -30,3 +30,6 @@ https://arekpl28.github.io/JavaScript//09%20Detection%20and%20display%20of%20mou
 
 ### 10 Moving the square
 https://arekpl28.github.io/JavaScript/10%20Moving%20the%20square/index.html
+
+### 11 Key up key down
+https://arekpl28.github.io/JavaScript//11%20Key%20up%20key%20down/index.html
