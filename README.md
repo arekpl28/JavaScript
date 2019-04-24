@@ -27,3 +27,6 @@ https://arekpl28.github.io/JavaScript/08%20Creating%20list%20and%20adding%20item
 
 ### 09 Detection and display of mouse position
 https://arekpl28.github.io/JavaScript//09%20Detection%20and%20display%20of%20mouse%20position/index.html
+
+### 10 Moving the square
+https://arekpl28.github.io/JavaScript/10%20Moving%20the%20square/index.html
