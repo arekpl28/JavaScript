@@ -1,0 +1,90 @@
+* {
+  margin: 0;
+  padding: 0;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  font-family: 'Roboto', sans-serif;
+}
+
+body {
+  max-width: 800px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+body h1 {
+  margin: 20px 0;
+}
+
+body h2 {
+  margin-bottom: 30px;
+}
+
+body div.select {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: row;
+          flex-direction: row;
+  -ms-flex-wrap: wrap;
+      flex-wrap: wrap;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+}
+
+body div.select img {
+  cursor: pointer;
+}
+
+body button.start {
+  display: block;
+  padding: 5px 20px;
+  border: 2px solid black;
+  text-transform: uppercase;
+  background-color: #fff;
+  font-weight: bold;
+  margin: 30px auto;
+  -webkit-transition: .3s;
+  transition: .3s;
+  font-size: 30px;
+  cursor: pointer;
+}
+
+body button.start:hover {
+  background-color: #141414;
+  color: white;
+}
+
+body div.panel {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+}
+
+body div.panel div.panel-left, body div.panel div.panel-right {
+  -ms-flex-preferred-size: 50%;
+      flex-basis: 50%;
+}
+
+body div.panel div.panel-left h3, body div.panel div.panel-right h3 {
+  text-transform: uppercase;
+}
+
+body div.panel div.panel-left {
+  font-size: 20px;
+}
+
+body div.panel div.panel-left h2 {
+  font-size: 30px;
+}
+
+body div.panel div.panel-right p span {
+  font-weight: bold;
+}
+/*# sourceMappingURL=style.css.map */
