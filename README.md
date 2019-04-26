@@ -39,3 +39,6 @@ https://arekpl28.github.io/JavaScript/12%20Drawing%20of%20names%20for%20child/in
 
 ### 13 Code generator
 https://arekpl28.github.io/JavaScript/13%20Code%20generator/index.html
+
+### 14 Adding element to array
+https://arekpl28.github.io/JavaScript//14%20Adding%20element%20to%20array/index.html
