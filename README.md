@@ -42,3 +42,6 @@ https://arekpl28.github.io/JavaScript/13%20Code%20generator/index.html
 
 ### 14 Adding element to array
 https://arekpl28.github.io/JavaScript//14%20Adding%20element%20to%20array/index.html
+
+### 15 Game Rock, Paper, Scissors
+https://arekpl28.github.io/JavaScript/15%20Game%20Rock,%20Paper,%20Scissors/index.html
