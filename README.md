@@ -33,3 +33,6 @@ https://arekpl28.github.io/JavaScript/10%20Moving%20the%20square/index.html
 
 ### 11 Key up key down
 https://arekpl28.github.io/JavaScript//11%20Key%20up%20key%20down/index.html
+
+### 12 Drawing of names for child
+https://arekpl28.github.io/JavaScript/12%20Drawing%20of%20names%20for%20child/index.html
