@@ -49,3 +49,5 @@ https://arekpl28.github.io/JavaScript/15%20Game%20Rock,%20Paper,%20Scissors/inde
 ### 16 Banner with dots
 https://arekpl28.github.io/JavaScript/16%20Banner%20with%20dots/index.html
 
+### 17 Current time
+https://arekpl28.github.io/JavaScript/17%20Current%20time/index.html
