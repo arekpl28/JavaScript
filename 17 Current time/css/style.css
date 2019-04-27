@@ -1,0 +1,19 @@
+* {
+  margin: 0;
+  padding: 0;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+div.clock {
+  line-height: 100vh;
+  font-size: 50px;
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+div.clock span {
+  font-weight: bold;
+  font-family: monospace;
+}
+/*# sourceMappingURL=style.css.map */
