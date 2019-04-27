@@ -45,3 +45,7 @@ https://arekpl28.github.io/JavaScript//14%20Adding%20element%20to%20array/index.
 
 ### 15 Game Rock, Paper, Scissors
 https://arekpl28.github.io/JavaScript/15%20Game%20Rock,%20Paper,%20Scissors/index.html
+
+### 16 Banner with dots
+https://arekpl28.github.io/JavaScript/16%20Banner%20with%20dots/index.html
+
