@@ -51,3 +51,6 @@ https://arekpl28.github.io/JavaScript/16%20Banner%20with%20dots/index.html
 
 ### 17 Current time
 https://arekpl28.github.io/JavaScript/17%20Current%20time/index.html
+
+### 18 Stopwatch
+https://arekpl28.github.io/JavaScript/18%20Stopwatch/index.html
