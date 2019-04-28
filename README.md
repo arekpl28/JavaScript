@@ -54,3 +54,6 @@ https://arekpl28.github.io/JavaScript/17%20Current%20time/index.html
 
 ### 18 Stopwatch
 https://arekpl28.github.io/JavaScript/18%20Stopwatch/index.html
+
+### 19 Removing items from list
+https://arekpl28.github.io/JavaScript/19%20Removing%20items%20from%20list/index.html
