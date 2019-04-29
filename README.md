@@ -60,3 +60,6 @@ https://arekpl28.github.io/JavaScript/19%20Removing%20items%20from%20list/index.
 
 ### 20 Search
 https://arekpl28.github.io/JavaScript/20%20Search/index.html
+
+### 21 Adding items to the list
+https://arekpl28.github.io/JavaScript/21%20Adding%20items%20to%20the%20list/index.html
