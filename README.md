@@ -66,3 +66,6 @@ https://arekpl28.github.io/JavaScript/21%20Adding%20and%20removing%20items%20fro
 
 ### 22 Adding, removing and searching items from list
 https://arekpl28.github.io/JavaScript/22%20Adding,%20removing%20and%20searching%20items%20from%20list/index.html
+
+### 23 One Armed Bandit Slot Game
+https://arekpl28.github.io/JavaScript/23%20One%20Armed%20Bandit%20Slot%20Game/index.html
