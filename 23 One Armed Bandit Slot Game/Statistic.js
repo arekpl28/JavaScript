@@ -1,0 +1,20 @@
+class Statistic {
+  constructor() {
+    this.gameResults = [];
+  }
+
+  addGameToStatistic(win, bid) {
+    let gameResults = {
+      win,
+      bid
+    }
+    this.gameResults.push(gameResults)
+  }
+
+  showGameStatistic() {
+    let games = this.gameResults.length;
+    let wins = this.gameResults.filter(result => result.win).length;
+    let losses = this.gameResults.filter(result => !result.win).length;
+    return [games, wins, losses]
+  }
+}

@@ -1,0 +1,95 @@
+* {
+  margin: 0;
+  padding: 0;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+div.wrap {
+  width: 80%;
+  margin: 5vh auto 0;
+}
+
+div.wrap h1 {
+  margin-bottom: 30px;
+  text-align: center;
+  text-transform: uppercase;
+}
+
+div.wrap section.game {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  margin-bottom: 3vh;
+}
+
+div.wrap section.game div {
+  height: 30vh;
+  -webkit-box-flex: 1;
+      -ms-flex-positive: 1;
+          flex-grow: 1;
+  margin: 10px;
+  border: 3px solid gray;
+}
+
+div.wrap section.play {
+  text-align: center;
+}
+
+div.wrap section.play input {
+  height: 90px;
+  font-size: 40px;
+  padding: 20px;
+  width: 400px;
+  border: 3px solid black;
+  text-align: center;
+}
+
+div.wrap section.play button {
+  width: 40%;
+  height: 90px;
+  text-align: center;
+  padding: 20px 60px;
+  font-size: 40px;
+  text-transform: uppercase;
+  background-color: #333333;
+  border: none;
+  color: white;
+  cursor: pointer;
+  letter-spacing: 6px;
+}
+
+div.wrap section.play button:hover {
+  color: red;
+}
+
+div.wrap section.panel {
+  margin: 80px 0 40px;
+  font-size: 26px;
+}
+
+div.wrap section.panel, div.wrap section.score {
+  font-size: 26px;
+}
+
+div.wrap section.panel span, div.wrap section.score span {
+  font-weight: bold;
+}
+
+@media (max-width: 1024px) {
+  div.wrap {
+    width: 90%;
+  }
+  div.wrap section.play input {
+    display: block;
+    height: 70px;
+    font-size: 30px;
+    margin: 20px auto;
+  }
+  div.wrap section.play button {
+    height: 74px;
+    font-size: 30px;
+  }
+}
+/*# sourceMappingURL=style.css.map */
